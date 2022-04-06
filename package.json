@@ -14,6 +14,7 @@
     "@strapi/plugin-users-permissions": "4.1.7",
     "@strapi/strapi": "4.1.7",
     "better-sqlite3": "7.4.6",
+    "pg": "^8.7.3",
     "strapi-plugin-meilisearch": "^0.6.2"
   },
   "author": {
