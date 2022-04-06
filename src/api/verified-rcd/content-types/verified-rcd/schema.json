@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "verified_rcds",
+  "info": {
+    "singularName": "verified-rcd",
+    "pluralName": "verified-rcds",
+    "displayName": "verified_rcd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "poster": {
+      "type": "string"
+    },
+    "social_media": {
+      "type": "json"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
